@@ -8,10 +8,7 @@ This repository contains my solutions for the daily challenges of April. Each da
 - Organized by day or problem name.
 
 ## Languages Used
-
-- C++
 - Python
-- Java (if applicable)
 
 ## Goal
 
